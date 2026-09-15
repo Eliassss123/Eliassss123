@@ -1,3 +1,13 @@
+## 🛠️ Tecnologías
+
+### 💻 Lenguajes
+
+
+
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Eliassss123/Eliassss123/output/github-snake-dark.svg">
