@@ -1,3 +1,12 @@
+<h1 align="center">
+  Hola, soy Elias 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Elias+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+el+desarrollo+%F0%9F%92%BB" />
+</p>
+
+
 ## 🛠️ Tecnologías
 
 ### 💻 Lenguajes
